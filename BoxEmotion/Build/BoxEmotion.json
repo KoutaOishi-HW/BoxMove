@@ -1,0 +1,9 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "BoxEmotion.data.unityweb",
+"asmCodeUrl": "BoxEmotion.asm.code.unityweb",
+"asmMemoryUrl": "BoxEmotion.asm.memory.unityweb",
+"asmFrameworkUrl": "BoxEmotion.asm.framework.unityweb",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
